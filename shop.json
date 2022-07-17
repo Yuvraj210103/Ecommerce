@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Blue T-shirt",
+        "price":"$10.00",
+        "imgsrc":"img/shop/1.jpg"
+    },
+    {
+        "name": "White Shoes",
+        "price":"$20.00",
+        "imgsrc":"img/shop/2.jpg"
+    },
+    {
+        "name": "Carry Bag",
+        "price":"$5.00",
+        "imgsrc":"img/shop/3.jpg"
+    },
+    {
+        "name": "Blue shoes",
+        "price":"$9.00",
+        "imgsrc":"img/shop/4.jpg"
+    },
+    {
+        "name": "White cloth cap",
+        "price":"$18.00",
+        "imgsrc":"img/shop/5.jpg"
+    },
+    {
+        "name": "Jacket",
+        "price":"$9.00",
+        "imgsrc":"img/shop/6.jpg"
+    },
+    {
+        "name": "Shoe",
+        "price":"$9.00",
+        "imgsrc":"img/shop/7.jpg"
+    },
+    {
+        "name": "Winter jacket",
+        "price":"$18.00",
+        "imgsrc":"img/shop/8.jpg"
+    },
+    {
+        "name": "Bag",
+        "price":"$91.00",
+        "imgsrc":"img/shop/9.jpg"
+    },
+    {
+        "name": "Titan Watch",
+        "price":"$92.00",
+        "imgsrc":"img/shop/10.jpg"
+    },
+    {
+        "name": "Cap",
+        "price":"$3.00",
+        "imgsrc":"img/shop/11.jpg"
+    },
+    {
+        "name": "White Sneaker",
+        "price":"$94.00",
+        "imgsrc":"img/shop/12.jpg"
+    },
+    {
+        "name": "Titan Watch",
+        "price":"$50.00",
+        "imgsrc":"img/shop/13.jpg"
+    },
+    {
+        "name": "Boot",
+        "price":"$50.00",
+        "imgsrc":"img/shop/14.jpg"
+    },
+    {
+        "name": "Cap",
+        "price":"$6.00",
+        "imgsrc":"img/shop/15.jpg"
+    },
+    {
+        "name": "Purple T-Shirt",
+        "price":"$5.00",
+        "imgsrc":"img/shop/16.jpg"
+    },
+    {
+        "name": "Jacket",
+        "price":"$51.00",
+        "imgsrc":"img/shop/17.jpg"
+    },
+    {
+        "name": "Cap",
+        "price":"$5.00",
+        "imgsrc":"img/shop/18.jpg"
+    },
+    {
+        "name": "Jacket",
+        "price":"$25.00",
+        "imgsrc":"img/shop/19.jpg"
+    },
+    {
+        "name": "Kurtis",
+        "price":"$35.00",
+        "imgsrc":"img/shop/20.jpg"
+    }
+
+    
+    
+    
+]
